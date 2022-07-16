@@ -63,11 +63,12 @@
 - [Know how to build REST API with Node.js from scratch](https://www.edureka.co/blog/rest-api-with-node-js/)
 
 #### Typescript
-[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
 
 
 #### Get ideas
-[e-commerce api](https://github.com/leoantony72/E-commerce-Api)
-[blog_api](https://github.com/leoantony72/blog_api)
-[https://github.com/maryamaljanabi/bestbags-nodejs-ecommerce](bestbags-nodejs-ecommerce)
+
+- [e-commerce api](https://github.com/leoantony72/E-commerce-Api)
+- [blog_api](https://github.com/leoantony72/blog_api)
+- [bets-bags](https://github.com/maryamaljanabi/bestbags-nodejs-ecommerce)
