@@ -61,14 +61,16 @@
 
 - [REST Api](https://hevodata.com/learn/building-a-secure-node-js-rest-api/)
 - [Know how to build REST API with Node.js from scratch](https://www.edureka.co/blog/rest-api-with-node-js/)
+- [Getting started with ESLint (and setting up VSCode)](https://www.youtube.com/watch?v=5IGVeq2DdsA&list=PLYvdvJlnTOjHwve8HmHAy95GjkINyIExb&index=2&ab_channel=BasaratCodes)
 
 #### Typescript
-- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
+#### Advanced Typescript
+[Advanced TypeScript Tutorials](youtube.com/playlist?list=PLYvdvJlnTOjF6aJsWWAt7kZRJvzw-en8B)
 
 
 
-#### Get ideas
-
-- [e-commerce api](https://github.com/leoantony72/E-commerce-Api)
-- [blog_api](https://github.com/leoantony72/blog_api)
-- [bets-bags](https://github.com/maryamaljanabi/bestbags-nodejs-ecommerce)
+#### Resources Github
+[api-rest-with-typescript](https://github.com/Lucas-Duarte-dev/api-rest-with-typescript)
+[Simple-Express-Server](https://github.com/apoorvcodes/Simple-Express-Server)
