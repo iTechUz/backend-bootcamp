@@ -64,8 +64,12 @@
 - [Getting started with ESLint (and setting up VSCode)](https://www.youtube.com/watch?v=5IGVeq2DdsA&list=PLYvdvJlnTOjHwve8HmHAy95GjkINyIExb&index=2&ab_channel=BasaratCodes)
 
 #### Typescript
-[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
-
+- [Learn Typescript for free](https://scrimba.com/learn/typescript)
+- [Introduction to TypeScript](https://www.koderhq.com/tutorial/typescript/)
+- [TypeScript for Beginners](https://code.tutsplus.com/series/typescript-for-beginners--cms-1215)
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [TypeScript Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQkX-95LHG5EDxPj3tVvVmRd)
+- [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
 #### Advanced Typescript
 [Advanced TypeScript Tutorials](youtube.com/playlist?list=PLYvdvJlnTOjF6aJsWWAt7kZRJvzw-en8B)
 
