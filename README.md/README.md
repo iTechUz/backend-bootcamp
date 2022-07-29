@@ -68,7 +68,7 @@
 [nodejs](https://www.youtube.com/playlist?list=PL_6qo1P3pzoYiEh0QFyw-rcHrRs1VjzN3)
 
 ### Nodejs Samar Badriddinov
-[nodejs](https://www.youtube.com/playlist?list=PLx6KiwtsRjcrrs4wBj5EhMCueZTZwoNuv
+[nodejs](https://www.youtube.com/playlist?list=PLx6KiwtsRjcrrs4wBj5EhMCueZTZwoNuv)
 # Database
 
 ## PostgresSQL
