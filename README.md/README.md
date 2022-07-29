@@ -4,34 +4,16 @@
 
 **Module**	--- **Description**
 
-- assert	Provides a set of assertion tests
-- buffer	To handle binary data
-- child_process	To run a child process
-- cluster	To split a single Node process into multiple processes
-- crypto	To handle OpenSSL cryptographic functions
-- dgram	Provides implementation of UDP datagram sockets
-- dns	To do DNS lookups and name resolution functions
-- domain	Deprecated. To handle unhandled errors
-- events	To handle events
 - fs	To handle the file system
 - http	To make Node.js act as an HTTP server
 - https	To make Node.js act as an HTTPS server.
-- net	To create servers and clients
 - os	Provides information about the operation system
 - path	To handle file paths
-- punycode	Deprecated. A character encoding scheme
 - querystring	To handle URL query strings
 - readline	To handle readable streams one line at the time
-- stream	To handle streaming data
-- string_decoder	To decode buffer objects into strings
-- timers	To execute a function after a given number of milliseconds
-- tls	To implement TLS and SSL protocols
-- tty	Provides classes used by a text terminal
 - url	To parse URL strings
 - util	To access utility functions
 - v8	To access information about V8 (the JavaScript engine)
-- vm	To compile JavaScript code in a virtual machine
-- zlib	To compress or decompress files
 
 **resources**
 
@@ -78,3 +60,22 @@
 #### Resources Github
 [api-rest-with-typescript](https://github.com/Lucas-Duarte-dev/api-rest-with-typescript)
 [Simple-Express-Server](https://github.com/apoorvcodes/Simple-Express-Server)
+
+### Nodejs Farhod Dadajonov
+[nodejs-full](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I6Z5UbiXgsK7j7oiKCV7vg6)
+
+### Nodejs Bexruz Xolmuminov
+[nodejs](https://www.youtube.com/playlist?list=PL_6qo1P3pzoYiEh0QFyw-rcHrRs1VjzN3)
+
+### Nodejs Samar Badriddinov
+[nodejs](https://www.youtube.com/playlist?list=PLx6KiwtsRjcrrs4wBj5EhMCueZTZwoNuv
+# Database
+
+## PostgresSQL
+
+[PostgresSQL-Bexruz-Xolmuminov](https://www.youtube.com/playlist?list=PL_6qo1P3pzobxTtzJNxh2nFOsjm1MmiQ2)
+
+## MongoDB
+[MongoDB-Farhod-Dadajonov](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I7ishKsAaB8JaOVcg6NpndK)
+
+[MongoDB-Bexruz-Xolmuminov](https://www.youtube.com/playlist?list=PL_6qo1P3pzobnaSsH-Tu17-7LKQdqUBPP)
