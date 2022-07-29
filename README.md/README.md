@@ -7,7 +7,6 @@
 - assert	Provides a set of assertion tests
 - buffer	To handle binary data
 - child_process	To run a child process
-- cluster	To split a single Node process into multiple processes
 - crypto	To handle OpenSSL cryptographic functions
 - dgram	Provides implementation of UDP datagram sockets
 - dns	To do DNS lookups and name resolution functions
