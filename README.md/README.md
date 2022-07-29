@@ -79,3 +79,13 @@
 [MongoDB-Farhod-Dadajonov](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I7ishKsAaB8JaOVcg6NpndK)
 
 [MongoDB-Bexruz-Xolmuminov](https://www.youtube.com/playlist?list=PL_6qo1P3pzobnaSsH-Tu17-7LKQdqUBPP)
+
+## Strapi Crash Course
+
+### Strapi crash course video
+[Strapi-Crash-Course](https://www.youtube.com/watch?v=HjhK0pzwlbU)
+// hello
+## React Shop github
+[react-shop-github](https://github.com/mavi888/react-shop-app)
+
+## Node and Reactjs full course video
