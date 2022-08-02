@@ -68,14 +68,33 @@
 [nodejs](https://www.youtube.com/playlist?list=PL_6qo1P3pzoYiEh0QFyw-rcHrRs1VjzN3)
 
 ### Nodejs Samar Badriddinov
-[nodejs](https://www.youtube.com/playlist?list=PLx6KiwtsRjcrrs4wBj5EhMCueZTZwoNuv
+[nodejs-samar-badriddinov](https://www.youtube.com/playlist?list=PLx6KiwtsRjcrrs4wBj5EhMCueZTZwoNuv)
 # Database
 
 ## PostgresSQL
 
+## Postgresql-exercises
+[Postgresql-tasks](https://pgexercises.com/gettingstarted.html)
+
+[Postgresql-tasks](https://ozencb.github.io/postgresql-exercises/#retrieve-everything-from-a-table)
+
+[Postgresql-tasks](https://postgresql.itversity.com/mastering_postgresql_exercises.html)
+
+## Bexruz Xolmuminov
 [PostgresSQL-Bexruz-Xolmuminov](https://www.youtube.com/playlist?list=PL_6qo1P3pzobxTtzJNxh2nFOsjm1MmiQ2)
 
 ## MongoDB
 [MongoDB-Farhod-Dadajonov](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I7ishKsAaB8JaOVcg6NpndK)
 
 [MongoDB-Bexruz-Xolmuminov](https://www.youtube.com/playlist?list=PL_6qo1P3pzobnaSsH-Tu17-7LKQdqUBPP)
+
+## Strapi Crash Course
+
+### Strapi crash course video
+[Strapi-Crash-Course](https://www.youtube.com/watch?v=HjhK0pzwlbU)
+## React Shop github
+[react-shop-github](https://github.com/mavi888/react-shop-app)
+
+## Node and Reactjs full course video
+[node-and-react](https://www.youtube.com/watch?v=UzRzLBrPB1I) 
+
