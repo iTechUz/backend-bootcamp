@@ -98,3 +98,13 @@
 ## Node and Reactjs full course video
 [node-and-react](https://www.youtube.com/watch?v=UzRzLBrPB1I) 
 
+## CRUD 
+
+## 1) nodejs-express-postgresql-rest-api
+[crud node-express-psql-with-rest-api](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/)
+
+## 2) nodejs-express-postgresql-rest-api
+[crud node-express-psql-with-rest-api](https://medium.com/bb-tutorials-and-thoughts/how-to-build-nodejs-rest-api-with-express-and-postgresql-674d96d5cb8f)
+
+## 3) nodejs-express-postgresql-rest-api
+[crud node-express-psql-with-rest-api](https://geshan.com.np/blog/2021/01/nodejs-postgresql-tutorial/)
