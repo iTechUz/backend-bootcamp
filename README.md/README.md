@@ -74,11 +74,11 @@
 ## PostgresSQL
 
 ## Postgresql-exercises
-[Postgresql-tasks](https://pgexercises.com/gettingstarted.html)
+[Getting Started](https://pgexercises.com/gettingstarted.html)
 
-[Postgresql-tasks](https://ozencb.github.io/postgresql-exercises/#retrieve-everything-from-a-table)
+[PostgreSQL Exercises](https://ozencb.github.io/postgresql-exercises/#retrieve-everything-from-a-table)
 
-[Postgresql-tasks](https://postgresql.itversity.com/mastering_postgresql_exercises.html)
+[Exercises - Mastering Postgresql](https://postgresql.itversity.com/mastering_postgresql_exercises.html)
 
 ## Bexruz Xolmuminov
 [PostgresSQL-Bexruz-Xolmuminov](https://www.youtube.com/playlist?list=PL_6qo1P3pzobxTtzJNxh2nFOsjm1MmiQ2)
@@ -100,11 +100,11 @@
 
 ## CRUD 
 
-## 1) nodejs-express-postgresql-rest-api
+## 1) CRUD REST API  with Node.js, Express, and PostgreSQL
 [crud node-express-psql-with-rest-api](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/)
 
-## 2) nodejs-express-postgresql-rest-api
+## 2) How to Build NodeJS REST API with Express and PostgreSQL
 [crud node-express-psql-with-rest-api](https://medium.com/bb-tutorials-and-thoughts/how-to-build-nodejs-rest-api-with-express-and-postgresql-674d96d5cb8f)
 
-## 3) nodejs-express-postgresql-rest-api
+## 3) Node.js Postgresql tutorial: Build a simple REST API with Express step-by-step
 [crud node-express-psql-with-rest-api](https://geshan.com.np/blog/2021/01/nodejs-postgresql-tutorial/)
