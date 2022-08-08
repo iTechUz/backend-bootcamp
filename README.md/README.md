@@ -15,10 +15,14 @@
 - util	To access utility functions
 - v8	To access information about V8 (the JavaScript engine)
 
+## Algorithms
+
+- [xodiyev-algorithms](https://www.youtube.com/playlist?list=PLirsJONgydrqlh7IipEAPkCwIAUFN-EUd)
+
 **resources**
 
 - [NodeJS Learn](https://www.tutorialsteacher.com/nodejs/what-is-nodejs)
-- [](https://www.geeksforgeeks.org/node-js-os-complete-reference/)
+- [node-geeksforgeeks](https://www.geeksforgeeks.org/node-js-os-complete-reference/)
 
 ### RestFull API
 
