@@ -1,3 +1,6 @@
+## Teaching Javascript-basic for nodejs
+- [javascript-basic](https://github.com/qodirovshohijahon/teaching-system/blob/main/NodeJs/1-javascript-basic.md)
+
 
 
 ### Built-in modules
@@ -23,6 +26,9 @@
 
 - [NodeJS Learn](https://www.tutorialsteacher.com/nodejs/what-is-nodejs)
 - [node-geeksforgeeks](https://www.geeksforgeeks.org/node-js-os-complete-reference/)
+
+## Nodejs best-practise
+- [nodejs-best-practise](https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices)
 
 ### RestFull API
 
@@ -112,3 +118,9 @@
 
 ## 3) Node.js Postgresql tutorial: Build a simple REST API with Express step-by-step
 [crud node-express-psql-with-rest-api](https://geshan.com.np/blog/2021/01/nodejs-postgresql-tutorial/)
+
+## nodejs search in postgresql
+- [search-postgresql](https://stackoverflow.com/questions/19471756/how-to-make-a-like-search-in-postgresql-and-node-js) 
+
+## Building CRUD rest-api and search with postgresql
+- [search-with-postgresql](https://www.atatus.com/blog/building-crud-rest-api-with-node-js-express-js-and-postgresql/)
