@@ -124,3 +124,6 @@
 
 ## Building CRUD rest-api and search with postgresql
 - [search-with-postgresql](https://www.atatus.com/blog/building-crud-rest-api-with-node-js-express-js-and-postgresql/)
+
+## Agg functions row_to_json(), array_to_json(), json_agg() 
+- [Use-Postgres-JSON-Type-and-Aggregate-Functions-to-Map-Relational-Data-to-JSON](http://johnatten.com/2015/04/22/use-postgres-json-type-and-aggregate-functions-to-map-relational-data-to-json/#Transform-Row-Data-to-a-JSON-Object-Using-row_to_json--)
